@@ -20,6 +20,5 @@ Filen Carwash.py, indeholder de relevante klasser. Test evt. klasserne ved at k�
 
 7. Information om en bil i køen kan ses via skærmtippet, som fremkommer, når man lader musen svæve over billedet af en bil i køen.
 
-Lavet af Daniel Guldberg Hansen
 
 ![Vaskehallen](https://user-images.githubusercontent.com/89967372/226675026-15066b2c-327c-4b21-aa47-091b2c66da70.png)
