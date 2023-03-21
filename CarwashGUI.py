@@ -1,10 +1,9 @@
 import customtkinter
 from PIL import Image
 import Carwash as carwash
-from idlelib.tooltip import Hovertip  
+from idlelib.tooltip import Hovertip
 
 def main():
-    
     global my_carwash
     my_carwash = carwash.Carwash()
     
