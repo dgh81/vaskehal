@@ -69,7 +69,7 @@ class Carwash():
             print('Please enter a valid vehicle licence plate.')
             return None    
 
-# Test af funktioner. Exkluderet fra GUI.
+# Test af funktioner. Ekskluderet fra GUI.
 def main():
     
     k1 = CarCategori1('Daniel', 'AJ60500')
