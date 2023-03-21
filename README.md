@@ -1,7 +1,9 @@
 # vaskehal
 
 Installér de nødvendige moduler som fx customtkinter med pip install
+
 Programmet startes ved at køre filen CarwashGUI.py
+
 Filen Carwash.py, indeholder de relevante klasser. Test evt. klasserne ved at køre denne fil direkte. Der er indtastet tests i main().
 
 1. Tilføj en bil til køen ved at indtaste nummerplade og ejer og vælge kategori og derefter trykke på "Føj ny bil til kø".
