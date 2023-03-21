@@ -7,7 +7,7 @@ Programmet startes ved at køre filen CarwashGUI.py
 Filen Carwash.py, indeholder de relevante klasser. Test evt. klasserne ved at køre denne fil direkte. Der er indtastet tests i main().
 
 1. Tilføj en bil til køen ved at indtaste nummerplade og ejer og vælge kategori og derefter trykke på "Føj ny bil til kø".
-
+<br>
 2. Den første bil i køen, er allerede kørt i vaskehallen og har derfor blå/vand baggrund. Denne bil har ingen kø-tid!
 
 3. Knappen "Fjern 1. bil i køen" kan fjerne den første bil (bilen i vaskehallen).
